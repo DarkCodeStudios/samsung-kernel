@@ -58,7 +58,7 @@ Source Code downloaded from http://opensource.samsung.com
 <details>
 <summary>Galaxy S10</summary>
 
-- [G97XX-TW9](https://github.com/DarkCodeStudios/samsung-kernel/tree/G97XX-TW9) - (Galaxy S10 Pie 9)
+- [G97XX-TW9](https://github.com/djb77/samsung-kernel/tree/G97XX-TW9) - (Galaxy S10 Pie 9)
 </details>
 
 
